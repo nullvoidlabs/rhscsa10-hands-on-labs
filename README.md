@@ -1,1 +1,1 @@
-# rhscsa10-hands-on-labs
+# rhcsa10-hands-on-labs
